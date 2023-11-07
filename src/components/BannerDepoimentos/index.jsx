@@ -1,5 +1,5 @@
 import { StylesBannerDepoimentos } from './style'
-import lpBanner3 from '/LP-banner3 1.svg'
+import lpBanner3 from '/LP-banner31.svg'
 
 const BannerDepoimentos = () => {
     return (
